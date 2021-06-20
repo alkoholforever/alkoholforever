@@ -1,1 +1,1 @@
-https://github.com/alkoholforever/alkoholforever.git
+# alkoholforever.github.io
